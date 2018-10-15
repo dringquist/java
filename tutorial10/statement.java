@@ -1,5 +1,5 @@
 class statement
-{
+{yeet
     public static void main(String args[])
     {
         int test = 6;   //one equal assigns. two equal signs is seeing if it's that value. 
